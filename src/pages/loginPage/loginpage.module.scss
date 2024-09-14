@@ -1,0 +1,17 @@
+.pageWrapper{
+    min-height: 100vh;
+    min-width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fromWrapper{
+    border: 1px solid black;
+    border-radius: 15px;
+    padding: 6rem 2rem;
+}
+
+.buttonWrapper{
+  margin-top: 2rem;
+}

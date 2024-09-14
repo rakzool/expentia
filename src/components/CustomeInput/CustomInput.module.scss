@@ -1,0 +1,20 @@
+.fieldsWrapper{
+
+    display: flex;
+    flex-direction: row;
+
+    label{
+        
+        padding: 0.9rem;
+        min-width: 6.5rem;
+    }
+
+    input{
+        min-width: 6.5rem;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid black;
+        margin-left: 1rem;
+    }
+
+}
